@@ -1,0 +1,9 @@
+{
+  "name": "ts_demo",
+  "version": "1.0.0",
+  "dependencies": {},
+  "description": "typescript demo",
+  "main": "index.js",
+  "author": "hypier",
+  "license": "MIT"
+}
